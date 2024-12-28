@@ -1,4 +1,4 @@
-﻿using BepInEx.Logging;
+using BepInEx.Logging;
 using BepInEx.Unity.IL2CPP;
 using BlueEyes.NarrativeBrain;
 using HarmonyLib;
